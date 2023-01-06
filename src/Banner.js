@@ -50,6 +50,5 @@ function Banner() {
 			<div className="banner--fadeBottom" />
 		</header>
 	);
-}
-
+}s
 export default Banner; /* title */
